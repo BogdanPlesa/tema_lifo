@@ -1,7 +1,5 @@
 require_relative "mod_stiva.rb"
 require_relative "Class_Stiva"
-load
-
 
 s=Stiva.new
 # Introducere in stiva
